@@ -65,7 +65,7 @@ export default function Home() {
     <main style={{ padding: '20px', fontFamily: 'Arial' }}>
       {/* Title */}
       <h1 style={{ textAlign: 'center', fontSize: '24px', marginBottom: '20px' }}>
-       Unzila's Todo-App (Next.js)
+       Unzilas Todo App (Next.js)
       </h1>
 
       {/* Input + Add button */}
